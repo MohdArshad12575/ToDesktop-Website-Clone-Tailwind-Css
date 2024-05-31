@@ -2,7 +2,7 @@
 # ToDesktop Website Clone 
 
 
-I have created a website using tailwindCss. This is a clone of ToDesktop website. I have created all the sections and features except one because it was a bit typical but I will add it soon. I have learned lot of things in tailwind, how to use different classes in tailwind and how to use grid flex in tailwind css and really this framework is too good or I think the best thing is that it gives us a lot of inbuilt classes. we can easily make our website responsive using tailwind
+I have created a website using tailwindCss. This is a clone of ToDesktop website. I have created all the sections and features except one because it was a bit typical but I will add it soon. I have learned lot of things in tailwind, how to use different classes in tailwind and how to use grid flex in tailwind css and really this framework is too good and I think the best thing is that it gives us a lot of inbuilt classes. we can easily make our website responsive using tailwind
 
 
 ## Authors
